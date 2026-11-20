@@ -1,0 +1,10 @@
+{
+  "description": "Engage with a gamified Mechanical Engineering Technology degree map that tracks progress, unlocks achievements, and motivates students through interactive quests.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
